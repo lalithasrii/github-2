@@ -1,0 +1,15 @@
+<html>
+
+<head> ENROLL BY NAME</head>
+
+<body>
+
+    <h2>ENTER YOUR FIRST NAME</h2>
+    <H2> ENTER YOUR LAST NAME</H2>
+    <h2>ENTER YOUR DATE OF BIRTH</h2>
+    <button type="button" onclick="document.getElementById('demo').innearHTML = Date()">click to display Date and
+        TIME.</button>
+
+</body>
+
+</html>
